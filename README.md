@@ -1,2 +1,1 @@
-# RealEstate_Price_Prediction-ML
-End to end website using Flask
+# Real Estate Price Prediction
